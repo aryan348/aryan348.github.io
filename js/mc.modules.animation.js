@@ -2,11 +2,11 @@
  * VERSION: 1.4.4
  * DATE: 2013-05-28
  * 
- * @author: mediacreed, mediacreed.com
+ * @author:Aryan
  **/
 
  /* start GENERAL CUSTOMIZATION PROPERTIES */
-var templateBaseURL         = "http://www.aryanchaurasia.me";/*"http://themes.mediacreed.com/html/synergy/"*/ 
+var templateBaseURL         = "http://www.aryanchaurasia.me/";/*"http://themes.mediacreed.com/html/synergy/"*/ 
 var themeColor              = "#d00355";
 var menuActive              = true;
 var menuHoverActive         = true; /* it will change to false if menuActive == true. If 'menuActive' 
